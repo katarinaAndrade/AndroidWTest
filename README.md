@@ -2,7 +2,9 @@
 
 Project Status : under construction 🚧 
 
-Funcionalidade 1
+done ✅ - Kolin Gradle
+
+under construction 🚧 - Funcionalidade 1
 
 A app deverá recolher a lista de códigos postais existente num ficheiro CSV publicado em
 https://github.com/centraldedados/codigos_postais , fazendo o download desse ficheiro.
@@ -12,7 +14,7 @@ termina antes do download estar completo.
 Enquanto o download ocorre, a app deverá apresentar um indicador de actividade.
 Enunciado
 
-Funcionalidade 1
+under construction 🚧 - Funcionalidade 1
 
 A app deverá apresentar um ecrã que liste códigos postais.
 Cada entrada deverá apresentar o código postal no formato ####-### , em conjunto com a designação
