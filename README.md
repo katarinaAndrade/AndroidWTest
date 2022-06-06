@@ -4,6 +4,10 @@ Project Status : under construction 🚧
 
 done ✅ - Kolin Gradle
 
+done ✅ - Multi modules
+
+under construction 🚧 - Clean Architecture
+
 under construction 🚧 - Funcionalidade 1
 
 A app deverá recolher a lista de códigos postais existente num ficheiro CSV publicado em
