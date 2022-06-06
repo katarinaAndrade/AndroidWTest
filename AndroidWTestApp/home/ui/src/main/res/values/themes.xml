@@ -1,0 +1,11 @@
+<resources>
+
+    <style name="Theme.AndroidWTest.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.AndroidWTest.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.AndroidWTest.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="title_activity_home"/>
+    <string name="home_fragment_label"/>
+
+    <string name="search_hint">Enter a Post Code</string>
+
+</resources>
